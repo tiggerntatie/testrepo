@@ -6,3 +6,4 @@ print(file.readlines())
 file.close() 
 
 # a comment
+# a second comment
